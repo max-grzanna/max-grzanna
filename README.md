@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @max-grzanna
 - 👀 I’m interested in webdevelopment and mashine learning
-- 🌱 I’m currently learning gatsby.js and tensorflow
 - 📫 How to reach me: grzannamax@gmail.com
 
 <!---
