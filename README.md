@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @max-grzanna
-- 👀 I’m interested in webdevelopment and mashine learning
 - 📫 How to reach me: grzannamax@gmail.com
 
 <!---
